@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepak-singh22
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python language ,aiml and ioy
+- 🌱 I’m currently learning python language ,aiml and iot
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
